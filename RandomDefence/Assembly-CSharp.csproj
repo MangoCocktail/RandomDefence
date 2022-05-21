@@ -56,6 +56,17 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\CameraMoveScript.cs" />
+     <Compile Include="Assets\Script\PlayerController.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\Agent.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\AgentBehavior.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\BoidCohesion.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\BoidSeparation.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\Flee.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\Seek.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\Squad_parent.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\base_behavior.cs" />
+     <Compile Include="Assets\Script\Runaway_Follow_Script\seek_script.cs" />
+     <Compile Include="Assets\Script\Steering.cs" />
      <Compile Include="Assets\Script\Utils.cs" />
      <Compile Include="Assets\Script\global_selection.cs" />
      <Compile Include="Assets\Script\selected_dictionary.cs" />
