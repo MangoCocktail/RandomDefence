@@ -77,7 +77,7 @@ namespace LOR
 
         private static void StopAllCoroutine()
         {            
-            StopAllCoroutines();
+            //StopAllCoroutines();
         }
     }
 }

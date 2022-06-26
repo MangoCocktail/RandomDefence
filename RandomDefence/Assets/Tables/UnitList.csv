@@ -1,0 +1,6 @@
+UnitID,UnitName,UnitTribe,UnitHP,UnitPower,UnitObtain
+1,WarManiac,Terran,10,1,NormalLotto
+2,SpartanCompany,Terran,12,2,NormalLotto
+3,DarkBerserker,Protoss,10,1,NormalLotto
+4,DarkSentinel,Protoss,12,2,NormalLotto
+5,PrimalRoach,Zerg,11,1,NormalLotto

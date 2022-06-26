@@ -270,3 +270,5 @@ D:\RandomDefence\RandomDefence\obj\Debug\Assembly-CSharp.csproj.CoreCompileInput
 D:\RandomDefence\RandomDefence\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\RandomDefence\RandomDefence\obj\Debug\Assembly-CSharp.dll
 D:\RandomDefence\RandomDefence\obj\Debug\Assembly-CSharp.pdb
+D:\RandomDefence\RandomDefence\Temp\bin\Debug\Unity.2D.Sprite.Editor.dll
+D:\RandomDefence\RandomDefence\Temp\bin\Debug\Unity.2D.Sprite.Editor.pdb
